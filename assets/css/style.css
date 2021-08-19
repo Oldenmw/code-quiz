@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    flex: auto;
+    justify-content: space-between;
+}
+header .high-score {
+    color: blueviolet;
+    margin: 1% auto 0 3%;
+    font-size: 30px;
+}
+header .time {
+    font-size: 30px;
+    margin: 1% 3% 0 auto;
+}
+main h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    margin: 90px auto 0 auto;
+}
+main p {
+    text-align: center;
+    margin: 20px 30% 0 30%;
+    font-size: 30px;
+}
+.button button {
+    color:white;
+    background-color: purple;
+    border-radius: 5px;
+    border: 0;
+}
+.start-btn {
+    height: 50px;
+    width: auto;
+    position: relative;
+    left: 46%;
+    right: 50%;
+    margin: 20px auto 0 auto;
+    font-size: 30px;
+}
